@@ -2,7 +2,7 @@ import React from 'react'
 
 function Farhan() {
   return (
-    <div>Farhan Saddqiue</div>
+    <div>WELCOME TO MY WEBSITE </div>
   )
 }
 
